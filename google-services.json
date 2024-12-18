@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30635879954",
+    "project_id": "upmind-firebase",
+    "storage_bucket": "upmind-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30635879954:android:2ce65eda0611bdb202b2cb",
+        "android_client_info": {
+          "package_name": "com.example.app_edukasikesehatanmental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5xsX1mj3YrTHNkMhnscSP_SrTlKUI6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
